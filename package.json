@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
-  "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "displayName": "Curtains controller",
+  "name": "homebridge-curtainscontroller",
+  "version": "0.1.0",
+  "description": "Control local python scripts on a Raspberry Pi Homebridge to lift and lower curtains",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git@github.com:dailir/homebridge-curtainscontroller.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/dailir/homebridge-curtainscontroller/issues"
   },
   "engines": {
     "node": ">=14.18.1",

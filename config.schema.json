@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "CurtainsControllerHomebridgePlugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
